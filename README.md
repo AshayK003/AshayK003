@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://github.com/AshayK003.png" width="120" style="border-radius:50%"/>
+</p>
+
+<p align="center">
+  <em style="color:#888;font-size:1.1em;font-family:Georgia,serif;">"The best tools should belong to everyone.<br/>Open source is how we make that happen."</em>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ashay-kushwaha-7a3101266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/sentinelcipher"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@darkcharon3301_96987"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
