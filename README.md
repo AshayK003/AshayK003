@@ -1,12 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ashay&fontSize=60&fontAlignY=30&animation=twinkling"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Ashay</h1>
-
-<h3 align="center">Building real-world AI systems that actually solve problems</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+that+solve+real+problems;Causal+Inference+%7C+Cybersecurity+%7C+Climate+Analytics;Open+source+%C2%B7+India" alt="Typing SVG"/>
+</p>
 
 <br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashay-kushwaha-7a3101266/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/sentinelcipher"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://medium.com/@darkcharon3301_96987"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://dev.to/sentinelcipher"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -14,104 +21,65 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenSource-000000?logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-000?logo=opensourceinitiative&logoColor=white"/>
 </p>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/hackathon-problem-statements">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=hackathon-problem-statements&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>🏆 36 Real-World Hackathon Problems</b>
-      <br/>
-      <sub>Curated problem statements with datasets, papers & MVP timelines</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/BreachAlpha">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=BreachAlpha&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>🛡️ BreachAlpha</b>
-      <br/>
-      <sub>Quantify data breach financial impact with event study + XGBoost</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/CausalLens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=CausalLens&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>🔬 CausalLens</b>
-      <br/>
-      <sub>Causal inference for policy evaluation (ARIMA, STS, Diff-in-Diff, Synthetic Control)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/DeltaGrid">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=DeltaGrid&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>🌍 DeltaGrid</b>
-      <br/>
-      <sub>Paris Agreement NDC gap analysis across 200+ countries</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/XadaptiveEDA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=XadaptiveEDA&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>📊 X-Adaptive EDA</b>
-      <br/>
-      <sub>Adaptive exploratory data analysis that learns your preferences</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/AshayK003/PACE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshayK003&repo=PACE&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" width="100%"/>
-      </a>
-      <br/>
-      <b>⚡ PACE</b>
-      <br/>
-      <sub>AI-powered content analysis from YouTube, PDFs, articles & audio</sub>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>Click to expand/collapse</b></summary>
 
 <br/>
 
-## 💡 What I Build
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [🏆 **Hackathon Problem Statements**](https://github.com/AshayK003/hackathon-problem-statements) | 36 real-world problems with datasets, papers & MVP timelines | `Markdown` `Research` |
+| [🛡️ **BreachAlpha**](https://github.com/AshayK003/BreachAlpha) | Quantify data breach financial impact — event study + XGBoost | `FastAPI` `React` `Python` |
+| [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series | `Streamlit` `Python` |
+| [🌍 **DeltaGrid**](https://github.com/AshayK003/DeltaGrid) | Paris Agreement NDC gap analysis across 200+ countries | `Streamlit` `Python` |
+| [📊 **X-Adaptive EDA**](https://github.com/AshayK003/XadaptiveEDA) | Adaptive data exploration that learns your preferences | `Streamlit` `Python` |
+| [⚡ **PACE**](https://github.com/AshayK003/PACE) | AI-powered content analysis from YouTube, PDFs, articles & audio | `Streamlit` `Python` |
+| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Hyper-local PWA connecting NGOs with volunteers | `React` `Node.js` `PostGIS` |
+| [📡 **SignalForge**](https://github.com/AshayK003/SignalForge) | AI knowledge digest via Telegram bot | `Python` `Telegram` `Gemini` |
 
-| Area | Projects |
-|------|----------|
-| **🛡️ Cybersecurity & Risk** | [BreachAlpha](https://github.com/AshayK003/BreachAlpha) — financial impact of breaches |
-| **🌱 Climate & Policy** | [DeltaGrid](https://github.com/AshayK003/DeltaGrid) — Paris Agreement tracking |
-| **🧪 Causal Inference** | [CausalLens](https://github.com/AshayK003/CausalLens) — policy impact evaluation |
-| **📊 Data Science** | [X-Adaptive EDA](https://github.com/AshayK003/XadaptiveEDA) — adaptive exploration |
-| **🧠 AI Applications** | [PACE](https://github.com/AshayK003/PACE) — content analysis & summarization |
-| **🏁 Hackathons** | [Problem Statements](https://github.com/AshayK003/hackathon-problem-statements) — 36 real-world problems |
+</details>
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshayK003&show_icons=true&theme=dark&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshayK003&layout=compact&theme=dark&hide_border=true" width="44%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshayK003&show_icons=true&theme=transparent&hide_border=true&title_color=00B4FF&icon_color=00B4FF&text_color=c9d1d9&bg_color=0d111700&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshayK003&layout=compact&theme=transparent&hide_border=true&title_color=00B4FF&text_color=c9d1d9&bg_color=0d111700" width="44%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshayK003&bg_color=0d111700&color=00B4FF&line=00B4FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 <br/>
 
+## 📝 Latest Writing
+
+<!-- MEDIUM_WIDGET_PLACEHOLDER -->
+<br/>
+
 ## ☕ Support
 
-If any of my projects help you build something meaningful, consider supporting:
+<p align="center">
+  If any of my projects help you build something meaningful:
+</p>
 
-<a href="https://chai4.me/darkcharon3301" target="_blank" title="Support darkcharon3301 on Chai4Me" style="display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:#ffffff;padding:8px 32px;border-radius:16px;text-decoration:none;border:1px solid #e5e7eb;box-shadow:0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -2px rgba(0,0,0,0.05);transition:transform 0.2s;"><img src="https://chai4.me/icons/wordmark.png" alt="Chai4Me" style="height:32px;object-fit:contain;margin-bottom:4px;"/><span style="color:#6b7280;font-family:sans-serif;font-size:14px;font-weight:600;">@darkcharon3301</span></a>
+<p align="center">
+  <a href="https://chai4.me/darkcharon3301" target="_blank" title="Support darkcharon3301 on Chai4Me">
+    <img src="https://img.shields.io/badge/☕_Buy_me_a_chai-FF813F?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
