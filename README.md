@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
+</div>
+
 <p align="center">
   <img src="https://github.com/AshayK003.png" width="120" style="border-radius:50%"/>
 </p>
