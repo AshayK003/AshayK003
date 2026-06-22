@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chai4.me/darkcharon3301" target="_blank" title="Support darkcharon3301 on Chai4Me">
+  <a href="https://chai4.me/ashaykushwaha003" target="_blank" title="Support on Chai4Me">
     <img src="https://img.shields.io/badge/☕_Buy_me_a_chai-FF813F?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
