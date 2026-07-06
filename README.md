@@ -15,7 +15,7 @@
   <a href="https://x.com/sentinelcipher"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@darkcharon3301_96987"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://dev.to/sentinelcipher"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://ashaykushwaha.dev"><img src="https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ashayk003.github.io/portfolio-hero/"><img src="https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 <p align="center">
