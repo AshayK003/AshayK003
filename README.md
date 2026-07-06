@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c6e,100:22C55E&height=120&section=header"/>
 </div>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <a href="https://x.com/sentinelcipher"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@darkcharon3301_96987"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://dev.to/sentinelcipher"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://ashaykushwaha.dev"><img src="https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -37,14 +38,16 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🏆 **Hackathon Problem Statements**](https://github.com/AshayK003/hackathon-problem-statements) | 36 real-world problems with datasets, papers & MVP timelines | `Markdown` `Research` |
-| [🛡️ **BreachAlpha**](https://github.com/AshayK003/BreachAlpha) | Quantify data breach financial impact — event study + XGBoost | `FastAPI` `React` `Python` |
-| [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series | `Streamlit` `Python` |
-| [🌍 **DeltaGrid**](https://github.com/AshayK003/DeltaGrid) | Paris Agreement NDC gap analysis across 200+ countries | `Streamlit` `Python` |
-| [📊 **X-Adaptive EDA**](https://github.com/AshayK003/XadaptiveEDA) | Adaptive data exploration that learns your preferences | `Streamlit` `Python` |
-| [⚡ **PACE**](https://github.com/AshayK003/PACE) | AI-powered content analysis from YouTube, PDFs, articles & audio | `Streamlit` `Python` |
-| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Hyper-local PWA connecting NGOs with volunteers | `React` `Node.js` `PostGIS` |
-| [📡 **SignalForge**](https://github.com/AshayK003/SignalForge) | AI knowledge digest via Telegram bot | `Python` `Telegram` `Gemini` |
+| [📈 **NSE Sentiment Analyzer**](https://github.com/AshayK003/nse-sentiment-analyzer) | Multi-source sentiment + technical indicators for any NSE ticker. 504 aliases, 9+ RSS sources, Bayesian blending. | `Streamlit` `Python` `NLP` |
+| [📊 **DataSmith**](https://github.com/AshayK003/DataSmith) | Describe any dataset in plain English — auto-discovers real schemas, generates realistic synthetic data with imperfections. | `Python` `SDV` `NumPy` |
+| [🏆 **Hackathon Problem Statements**](https://github.com/AshayK003/hackathon-problem-statements) | 36 real-world problems with datasets, papers & MVP timelines across 3 tracks. | `Markdown` `Research` |
+| [🛡️ **BreachAlpha**](https://github.com/AshayK003/BreachAlpha) | Quantify data breach financial impact — event study + XGBoost risk scoring for CISO board reporting. | `FastAPI` `React` `Python` |
+| [📉 **NSE Portfolio Risk Scanner**](https://github.com/AshayK003/nse-portfolio-risk-scanner) | VaR 95/99, Sharpe, Sortino, Monte Carlo, HMM regime detection from a single CSV upload. 355 tests. | `Streamlit` `Python` |
+| [📄 **pdf-studio**](https://github.com/AshayK003/pdf-studio) | Three lines of code for a PDF with a table, a chart, and a header. Importable, zero-dependency core. | `Python` `ReportLab` |
+| [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series — ARIMA, Bayesian STS, synthetic control. | `Streamlit` `Python` |
+| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Hyper-local PWA connecting NGOs with volunteers. PostGIS spatial matching, offline-first. | `React` `Node.js` `PostGIS` |
+| [🌍 **DeltaGrid**](https://github.com/AshayK003/DeltaGrid) | Paris Agreement NDC gap analysis across 200+ countries with interactive choropleth maps. | `Streamlit` `Python` |
+| [👁️ **PriceSentinel**](https://github.com/AshayK003/PriceSentinel) | Monitor competitor pricing pages. Chrome extension + FastAPI backend, local-first architecture. | `WXT` `Preact` `FastAPI` |
 
 </details>
 
@@ -78,5 +81,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c6e,100:22C55E&height=120&section=footer"/>
 </div>
