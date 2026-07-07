@@ -69,17 +69,18 @@
 ## 🤝 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-12-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs-18-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Merged-5-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open-7-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open-13-blue?style=for-the-badge"/>
 </p>
 
-Contributions across **4 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
+Contributions across **5 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
 - [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — 5 merged PRs: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
 - [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
 - [**good-first-issues**](https://github.com/yankeexe/good-first-issues) — 1 open PR: JSON/CSV output format flag
 - [**reactivesearch**](https://github.com/appbaseio/reactivesearch) — 1 open PR: ErrorBoundary null callback fix
+- [**Issue-Finder**](https://github.com/Vedant-code/Issue-Finder) — 6 open PRs: request timeout & rate-limit handling, token warning, test harness, CLI arguments, query dedup, query config
 
 <br/>
 
