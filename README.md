@@ -64,6 +64,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshayK003&bg_color=0d111700&color=00B4FF&line=00B4FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source_PRs-1-00B4FF?style=flat-square&logo=github"/>
+</p>
+
 <br/>
 
 ## 🤝 Open Source Contributions
