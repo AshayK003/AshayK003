@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source_PRs-7-00B4FF?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Open_Source_PRs-32-00B4FF?style=flat-square&logo=github"/>
 </p>
 
 <br/>
@@ -73,12 +73,13 @@
 ## 🤝 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-28-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs-32-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Merged-5-success?style=for-the-badge"/>
 </p>
 
-Contributions across **8 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
+Contributions across **9 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
+- [**calibre-web**](https://github.com/janeczku/calibre-web) — 3 open PRs: cover edit permission fix, mobile infinite scroll fix, User-Agent crash fix
 - [**cht-core**](https://github.com/medic/cht-core) — 1 open PR: added TASK/TARGET/USER_SETTINGS constants to shared DOC_TYPES
 - [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — 5 merged PRs: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
 - [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
@@ -86,7 +87,7 @@ Contributions across **8 open-source projects** — bug fixes, feature additions
 - [**reactivesearch**](https://github.com/appbaseio/reactivesearch) — 1 open PR: ErrorBoundary null callback fix
 - [**Issue-Finder**](https://github.com/Vedant-code/Issue-Finder) — 6 open PRs: request timeout & rate-limit handling, token warning, test harness, CLI arguments, query dedup, query config
 - [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) — 3 open PRs: examples index, QUICKSTART section, starters table row
-- [**MyFinances**](https://github.com/AshayK003/MyFinances) — 6 open PRs: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test
+- [**MyFinances**](https://github.com/AshayK003/MyFinances) — 7 open PRs: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, invoice actions dropdown fix
 
 <br/>
 
