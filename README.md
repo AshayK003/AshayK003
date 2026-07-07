@@ -15,7 +15,7 @@
   <a href="https://x.com/sentinelcipher"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://medium.com/@darkcharon3301_96987"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://dev.to/sentinelcipher"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <a href="https://ashayk003.github.io/portfolio-hero/"><img src="https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://sentinelcipher3301.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00B4FF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -73,13 +73,13 @@
 ## 🤝 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-21-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs-22-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Merged-5-success?style=for-the-badge"/>
-  <img src="h...[truncated]
 </p>
 
-Contributions across **6 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
+Contributions across **7 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
+- [**cht-core**](https://github.com/medic/cht-core) — 1 open PR: added TASK/TARGET/USER_SETTINGS constants to shared DOC_TYPES
 - [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — 5 merged PRs: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
 - [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
 - [**good-first-issues**](https://github.com/yankeexe/good-first-issues) — 1 open PR: JSON/CSV output format flag
