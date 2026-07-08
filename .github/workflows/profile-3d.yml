@@ -1,0 +1,26 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # daily at 6pm UTC (11:30pm IST)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D contribution graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: YoshiIno/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          file_path: profile-3d-contrib
+      - name: Commit & push
+        run: |
+          git config user.name "AshayK003"
+          git config user.email "0x00101010@proton.me"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
