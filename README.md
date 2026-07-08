@@ -61,6 +61,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshayK003&theme=transparent&hide_border=true&border_radius=5&title_color=00B4FF&text_color=c9d1d9&bg_color=0d111700" width="65%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshayK003&bg_color=0d111700&color=00B4FF&line=00B4FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
