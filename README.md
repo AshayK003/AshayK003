@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source_PRs-37-00B4FF?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Open_Source_PRs-41-00B4FF?style=flat-square&logo=github"/>
 </p>
 
 <br/>
@@ -89,13 +89,13 @@
 ## 🤝 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-37-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Merged-16-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PRs-41-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Merged-18-success?style=for-the-badge"/>
 </p>
 
-Contributions across **10 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
+Contributions across **13 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
-- [**MyFinances**](https://github.com/TreyWW/MyFinances) — 7 open PRs: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, dropdown overflow fix
+- [**MyFinances**](https://github.com/TreyWW/MyFinances) — **2 merged** ✅ + 5 open: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, dropdown overflow fix
 - [**Issue-Finder**](https://github.com/Vedant-code/Issue-Finder) — **6 merged** ✅: request timeout & rate-limit handling, token warning, test harness, CLI arguments, query dedup, query config
 - [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
 - [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — **5 merged** ✅: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
@@ -105,7 +105,9 @@ Contributions across **10 open-source projects** — bug fixes, feature addition
 - [**cht-core**](https://github.com/medic/cht-core) — 1 open PR: TASK/TARGET/USER_SETTINGS constants to shared DOC_TYPES
 - [**good-first-issues**](https://github.com/yankeexe/good-first-issues) — 1 open PR: JSON/CSV output format flag
 - [**reactivesearch**](https://github.com/appbaseio/reactivesearch) — 1 open PR: ErrorBoundary null callback fix
-
+- [**falcon**](https://github.com/falconry/falcon) — 1 open PR: clarify headers param in redirect docs
+- [**good-first-issue**](https://github.com/DeepSourceCorp/good-first-issue) — 1 open PR: Add 3 repos to directory
+- [**music-recommender**](https://github.com/Arya-Adityasvg/music-recommender) — 1 open PR: fuzzy search, XSS fix, caching, tests
 <br/>
 
 ## ☕ Support
