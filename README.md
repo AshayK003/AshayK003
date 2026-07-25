@@ -47,9 +47,9 @@
 | [🧪 **DataSmith**](https://github.com/AshayK003/DataSmith) | Free synthetic dataset generator with a real moat — Schema Knowledge Graph (crawls real schemas), Domain Imperfection Fingerprints (realistic noise), Community Schema Library (network effects). AGPL v3. | `Python` `Streamlit` `SDV` `NumPy` |
 | [📄 **pdf-studio**](https://github.com/AshayK003/pdf-studio) | Three lines of code for a PDF with a table, a chart, and a header. ReportLab backend, 3 bundled fonts (Inter, Lora, JetBrains Mono), two-pass rendering for page numbers. | `Python` `ReportLab` |
 | [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series — ARIMA, Bayesian STS, Diff-in-Diff, Synthetic Control. Counterfactual charts + PDF reports. | `Streamlit` `Python` `Causal Inference` |
-| [🔍 **DiffIQ**](https://github.com/AshayK003/DiffIQ) | BSE corporate filings pipeline — crawl, extract, classify, sectionize, diff announcements. Pure Python + SQLite, zero external services. | `Python` `SQLite` `NLP` |
-| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Skill-based volunteer matching for NGOs. React + Node.js + Supabase (PostGIS spatial). Frontend → Vercel, Backend → Render (Docker), DB → Supabase. | `React` `Node.js` `PostGIS` `TypeScript` |
-| [👁️ **PriceSentinel**](https://github.com/AshayK003/PriceSentinel) | Monitor competitor pricing pages. Chrome extension (WXT + Preact, 31KB) + FastAPI backend (APScheduler + SQLite). Local-first, optional cloud sync. | `WXT` `Preact` `FastAPI` |
+| [🔍 **DiffIQ**](https://github.com/AshayK003/DiffIQ) | BSE filing difference analysis — downloads board meeting outcomes/annual reports, extracts text via pypdf, diffs side-by-side. Streamlit dashboard with historical tracking. | `Streamlit` `Python` `NLP` |
+| [🏆 **Hackathon Problem Statements**](https://github.com/AshayK003/hackathon-problem-statements) | 36 real-world problems across Global South AI, US Civic Tech, Rapid Prototypes. Each with datasets, papers, MVP timelines. **7★, 1 fork.** | `Markdown` `Research` |
+| [👁️ **PriceSentinel**](https://github.com/AshayK003/PriceSentinel) | Monitor competitor pricing pages. Chrome extension (WXT + Preact) + FastAPI backend, local-first architecture. Zero infrastructure — no Redis, Celery, or SendGrid. | `WXT` `Preact` `FastAPI` |
 
 </details>
 
@@ -72,8 +72,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_Source_PRs-41-00B4FF?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Original_Projects-18-22C55E?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Deployed_Apps-5-FF6B6B?style=flat-square&logo=streamlit"/>
 </p>
 
 <br/>
@@ -94,15 +92,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-41-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Merged-41-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Merged-20-success?style=for-the-badge"/>
 </p>
 
 Contributions across **13 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
-- [**MyFinances**](https://github.com/TreyWW/MyFinances) — **4 merged** ✅: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, dropdown overflow fix
+- [**MyFinances**](https://github.com/TreyWW/MyFinances) — **4 merged** ✅: dead code removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, invoice dropdown overflow fix
 - [**Issue-Finder**](https://github.com/Vedant-code/Issue-Finder) — **6 merged** ✅: request timeout & rate-limit handling, token warning, test harness, CLI arguments, query dedup, query config
-- [**cohors**](https://github.com/rushirb2001/cohors) — **5 merged** ✅: cache eviction, parallel search, git error types, allow-open gate, broken-pipe handling
+- [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
 - [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — **5 merged** ✅: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
+- [**cohors**](https://github.com/rushirb2001/cohors) — **5 merged** ✅: cache eviction, parallel search, git error types, allow-open gate, broken-pipe handling
+- [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) — 3 closed (unmerged): examples index, QUICKSTART section, starters table row
 - [**calibre-web**](https://github.com/janeczku/calibre-web) — 2 open PRs: mobile infinite scroll fix, User-Agent crash fix
 - [**cht-core**](https://github.com/medic/cht-core) — 1 open PR: TASK/TARGET/USER_SETTINGS constants to shared DOC_TYPES
 - [**good-first-issues**](https://github.com/yankeexe/good-first-issues) — 1 open PR: JSON/CSV output format flag
@@ -110,8 +110,6 @@ Contributions across **13 open-source projects** — bug fixes, feature addition
 - [**falcon**](https://github.com/falconry/falcon) — 1 open PR: clarify headers param in redirect docs
 - [**good-first-issue**](https://github.com/DeepSourceCorp/good-first-issue) — 1 open PR: Add 3 repos to directory
 - [**music-recommender**](https://github.com/Arya-Adityasvg/music-recommender) — 1 open PR: fuzzy search, XSS fix, caching, tests
-- [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
-- [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) — 3 closed (unmerged): examples index, QUICKSTART section, starters table row
 
 <br/>
 
