@@ -38,16 +38,18 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [📈 **NSE Sentiment Analyzer**](https://github.com/AshayK003/nse-sentiment-analyzer) | Multi-source sentiment + technical indicators for any NSE ticker. 504 aliases, 9+ RSS sources, Bayesian blending. | `Streamlit` `Python` `NLP` |
-| [📊 **DataSmith**](https://github.com/AshayK003/DataSmith) | Describe any dataset in plain English — auto-discovers real schemas, generates realistic synthetic data with imperfections. | `Python` `SDV` `NumPy` |
-| [🏆 **Hackathon Problem Statements**](https://github.com/AshayK003/hackathon-problem-statements) | 36 real-world problems with datasets, papers & MVP timelines across 3 tracks. | `Markdown` `Research` |
-| [🛡️ **BreachAlpha**](https://github.com/AshayK003/BreachAlpha) | Quantify data breach financial impact — event study + XGBoost risk scoring for CISO board reporting. | `FastAPI` `React` `Python` |
-| [📉 **NSE Portfolio Risk Scanner**](https://github.com/AshayK003/nse-portfolio-risk-scanner) | VaR 95/99, Sharpe, Sortino, Monte Carlo, HMM regime detection from a single CSV upload. 355 tests. | `Streamlit` `Python` |
-| [📄 **pdf-studio**](https://github.com/AshayK003/pdf-studio) | Three lines of code for a PDF with a table, a chart, and a header. Importable, zero-dependency core. | `Python` `ReportLab` |
-| [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series — ARIMA, Bayesian STS, synthetic control. | `Streamlit` `Python` |
-| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Hyper-local PWA connecting NGOs with volunteers. PostGIS spatial matching, offline-first. | `React` `Node.js` `PostGIS` |
-| [🌍 **DeltaGrid**](https://github.com/AshayK003/DeltaGrid) | Paris Agreement NDC gap analysis across 200+ countries with interactive choropleth maps. | `Streamlit` `Python` |
-| [👁️ **PriceSentinel**](https://github.com/AshayK003/PriceSentinel) | Monitor competitor pricing pages. Chrome extension + FastAPI backend, local-first architecture. | `WXT` `Preact` `FastAPI` |
+| [📊 **NSE Portfolio Risk Scanner**](https://github.com/AshayK003/nse-portfolio-risk-scanner) | Institutional-grade VaR 95/99, Sharpe, Sortino, Monte Carlo (10K), HMM regime detection, HRP optimization, stress testing. 355 tests, 90% coverage. **Deployed on Streamlit Cloud.** | `Streamlit` `Python` `Risk Analytics` |
+| [📈 **NSE Sentiment Analyzer**](https://github.com/AshayK003/nse-sentiment-analyzer) | Live NSE price + multi-source news sentiment (9+ RSS, 500+ aliases). Bayesian blending, VADER, technical overlays. **10★, 109 tests, AGPL v3, fully free.** | `Streamlit` `Python` `NLP` `Finance` |
+| [🏦 **FII/DII Dashboard**](https://github.com/AshayK003/fii-dii-dashboard) | Daily institutional flow tracking from NSE India. Trend charts, FII vs DII comparison, rolling averages, Nifty 50 overlay. **5 forks, daily Telegram cron.** | `Streamlit` `Python` `nsepython` |
+| [🛡️ **BreachAlpha**](https://github.com/AshayK003/BreachAlpha) | Quantify data breach financial impact — event study methodology + XGBoost risk scoring. CLI, web dashboard, API for CISO board reporting. **Deployed on Render (Docker), 144 tests.** | `FastAPI` `React` `Python` `Docker` |
+| [📉 **StackTrade**](https://github.com/AshayK003/StackTrade) | Free intraday probability-stacking for NSE — ORB + hourly MA20 trend filter + support/resistance. **94.5% WR backtest (849 trades, 25 stocks × 60 days), zero direct losses, 52% scratch rate.** Live-trading ready. | `Streamlit` `Python` `Trading` |
+| [🌍 **DeltaGrid**](https://github.com/AshayK003/DeltaGrid) | Paris Agreement NDC progress tracker across 200+ countries. Green scoring, gap analysis, interactive choropleth maps. **Deployed on Streamlit Cloud.** | `Streamlit` `Python` `Climate` |
+| [🧪 **DataSmith**](https://github.com/AshayK003/DataSmith) | Free synthetic dataset generator with a real moat — Schema Knowledge Graph (crawls real schemas), Domain Imperfection Fingerprints (realistic noise), Community Schema Library (network effects). AGPL v3. | `Python` `Streamlit` `SDV` `NumPy` |
+| [📄 **pdf-studio**](https://github.com/AshayK003/pdf-studio) | Three lines of code for a PDF with a table, a chart, and a header. ReportLab backend, 3 bundled fonts (Inter, Lora, JetBrains Mono), two-pass rendering for page numbers. | `Python` `ReportLab` |
+| [🔬 **CausalLens**](https://github.com/AshayK003/CausalLens) | Did that policy actually work? Causal inference for time series — ARIMA, Bayesian STS, Diff-in-Diff, Synthetic Control. Counterfactual charts + PDF reports. | `Streamlit` `Python` `Causal Inference` |
+| [🔍 **DiffIQ**](https://github.com/AshayK003/DiffIQ) | BSE corporate filings pipeline — crawl, extract, classify, sectionize, diff announcements. Pure Python + SQLite, zero external services. | `Python` `SQLite` `NLP` |
+| [🤝 **KarmaMap**](https://github.com/AshayK003/KarmaMap) | Skill-based volunteer matching for NGOs. React + Node.js + Supabase (PostGIS spatial). Frontend → Vercel, Backend → Render (Docker), DB → Supabase. | `React` `Node.js` `PostGIS` `TypeScript` |
+| [👁️ **PriceSentinel**](https://github.com/AshayK003/PriceSentinel) | Monitor competitor pricing pages. Chrome extension (WXT + Preact, 31KB) + FastAPI backend (APScheduler + SQLite). Local-first, optional cloud sync. | `WXT` `Preact` `FastAPI` |
 
 </details>
 
@@ -70,6 +72,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_Source_PRs-41-00B4FF?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Original_Projects-18-22C55E?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Deployed_Apps-5-FF6B6B?style=flat-square&logo=streamlit"/>
 </p>
 
 <br/>
@@ -90,17 +94,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-41-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Merged-18-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Merged-41-success?style=for-the-badge"/>
 </p>
 
 Contributions across **13 open-source projects** — bug fixes, feature additions, dependency cleanup, and CI improvements:
 
-- [**MyFinances**](https://github.com/TreyWW/MyFinances) — **2 merged** ✅ + 5 open: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, dropdown overflow fix
+- [**MyFinances**](https://github.com/TreyWW/MyFinances) — **4 merged** ✅: debug print removal, BotoSchedule status field fix, RandomCode rename, month overflow fix, dead code removal, invoice deletion test, dropdown overflow fix
 - [**Issue-Finder**](https://github.com/Vedant-code/Issue-Finder) — **6 merged** ✅: request timeout & rate-limit handling, token warning, test harness, CLI arguments, query dedup, query config
-- [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
-- [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — **5 merged** ✅: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
 - [**cohors**](https://github.com/rushirb2001/cohors) — **5 merged** ✅: cache eviction, parallel search, git error types, allow-open gate, broken-pipe handling
-- [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) — 3 closed (unmerged): examples index, QUICKSTART section, starters table row
+- [**bharatrag**](https://github.com/pradnyagundu/bharatrag) — **5 merged** ✅: input validation, CI cleanup, dependency reduction, CONTRIBUTING.md
 - [**calibre-web**](https://github.com/janeczku/calibre-web) — 2 open PRs: mobile infinite scroll fix, User-Agent crash fix
 - [**cht-core**](https://github.com/medic/cht-core) — 1 open PR: TASK/TARGET/USER_SETTINGS constants to shared DOC_TYPES
 - [**good-first-issues**](https://github.com/yankeexe/good-first-issues) — 1 open PR: JSON/CSV output format flag
@@ -108,6 +110,9 @@ Contributions across **13 open-source projects** — bug fixes, feature addition
 - [**falcon**](https://github.com/falconry/falcon) — 1 open PR: clarify headers param in redirect docs
 - [**good-first-issue**](https://github.com/DeepSourceCorp/good-first-issue) — 1 open PR: Add 3 repos to directory
 - [**music-recommender**](https://github.com/Arya-Adityasvg/music-recommender) — 1 open PR: fuzzy search, XSS fix, caching, tests
+- [**scrapit**](https://github.com/joaobenedetmachado/scrapit) — 5 open PRs: config refactor, async client sharing, helper extraction, data integrity fixes
+- [**loop-engineering**](https://github.com/cobusgreyling/loop-engineering) — 3 closed (unmerged): examples index, QUICKSTART section, starters table row
+
 <br/>
 
 ## ☕ Support
