@@ -3,11 +3,11 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/AshayK003.png" width="120" style="border-radius:50%"/>
+  <img src="https://github.com/AshayK003.png" width="120"/>
 </p>
 
 <p align="center">
-  <em style="color:#888;font-size:1.1em;font-family:Georgia,serif;">"The best tools should belong to everyone.<br/>Open source is how we make that happen."</em>
+  <em>"The best tools should belong to everyone.<br/>Open source is how we make that happen."</em>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ Contributions across **13 open-source projects** — bug fixes, feature addition
 
 <p align="center">
   <a href="https://chai4.me/ashaykushwaha003" target="_blank" title="Support on Chai4Me">
-    <img src="https://img.shields.io/badge/☕_Buy_me_a_chai-FF813F?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%E2%98%95%20Buy%20me%20a%20chai-FF813F?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
